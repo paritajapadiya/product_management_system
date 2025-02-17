@@ -49,8 +49,8 @@ Follow these steps to set up the project environment:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/paritajapadiya/product_management_system.git
+   cd \product_management_system
    ```
 
 2. Make sure MongoDB is running locally or provide the cloud `connection-string` in the configuration.
